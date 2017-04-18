@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1491731002 source:e:\c\tree\main.c
+1490706717 source:e:\c\algorithm_1\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 

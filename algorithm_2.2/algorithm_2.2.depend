@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1491731002 source:e:\c\tree\main.c
+1491402019 source:e:\c\algorithm_2.2\main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 

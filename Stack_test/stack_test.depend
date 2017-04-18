@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1491731002 source:e:\c\tree\main.c
+1490607706 source:e:\c\stack_test\main.c
 	<stdio.h>
 	<stdlib.h>
+	<malloc.h>
 
