@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492437067 source:/home/daydreamor/桌面/c-tst/algorithm_3/main.c
+	<stdio.h>
+	<stdlib.h>
+
