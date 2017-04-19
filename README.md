@@ -1,2 +1,0 @@
-# learnAlgorithm
-based on c
